@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "361456730024",
+    "firebase_url": "https://r-collector-default-rtdb.firebaseio.com",
+    "project_id": "r-collector",
+    "storage_bucket": "r-collector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361456730024:android:1d5e9f4ffaf09df849e79d",
+        "android_client_info": {
+          "package_name": "com.example.r_collector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361456730024-hfr150027lf3hhq6rfvksrgp56sfta6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBICX6Bujj1W685GZfibq7w1yRwdXve9mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361456730024-hfr150027lf3hhq6rfvksrgp56sfta6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
